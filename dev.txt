@@ -35,6 +35,12 @@ open your browser and paste the django port server to see the project
 you can copy the port server below. 
     "http://127.0.0.1:8000/"
 
+// docker setup option 
+
+run the following commands to get the project running in docker 
+    "docker-compose up --build"
+    "docker compose up"
+
 
 
 
